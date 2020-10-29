@@ -8,7 +8,7 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.6/616105b0831250a2e443447508e6a8b26bc466fb/lombok-1.18.6.jar" />
         </processorPath>
-        <module name="practice.main" />
+        <module name="ds-algo-problems.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8" />
